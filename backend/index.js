@@ -27,7 +27,6 @@ app.get("/", (req, res) => {
   return res.status(619).send("Welcome Abdul Wahab Sab!");
 });
 
-app.cors;
 // Routes
 app.use("/books", bookRoute);
 
