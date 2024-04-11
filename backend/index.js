@@ -12,16 +12,16 @@ app.use(express.json());
 // middleware for handling CORS
 
 //option 1: Allow all Origins (*)
-// app.use(cors());
+app.use(cors());
 
 //option 2: Alow Custom Origins
-app.use(
-  cors({
-    origin: "http://localhost:3000",
-    methods: ["GET", "POST", "PUT", "DELETE"],
-    allowedHeaders: ["content-type"],
-  })
-);
+// app.use(
+//   cors({
+//     origin: "http://localhost:3000",
+//     methods: ["GET", "POST", "PUT", "DELETE"],
+//     allowedHeaders: ["content-type"],
+//   })
+// );
 app.get("/", (req, res) => {
   console.log(req);
   return res.status(619).send("Welcome Abdul Wahab Sab!");
