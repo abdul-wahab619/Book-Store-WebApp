@@ -88,15 +88,15 @@ Follow these steps to get the project up and running on your local machine:
 
 4. Interface In Table
 
-![Image1](/interface/image.png)
+![Image1](/interface/image2.png)
 
 5. Interface In Card
 
-![Image1](/interface/image2.png)
+![Image1](/interface/image.png)
 
 ## Youtube
 
-[![Image1](/interface/image2.png)](https://www.youtube.com/channel/UCb_PNse1bCwSUQ1egNymlPA)
+[![Image1](/interface/image.png)](https://www.youtube.com/channel/UCb_PNse1bCwSUQ1egNymlPA)
 
 ## Collaborating
 
